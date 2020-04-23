@@ -1,7 +1,9 @@
 # RandomBalls.js
+ver. 1.0.0  
 
 ランダムなサイズ・透明度の円がふわふわと動くJavaScriptです。
-クリックするとボールが増えます。
+クリックするとボールが増えます。  
+プラグインではなく、直接JSファイルを編集するだけの単純なものです。
 
 [デモはこちら](https://gita-mw.github.io/randomballs/dist/demo.html)  
 [フロントページはこちら](https://gita-mw.github.io/randomballs/)
