@@ -99,7 +99,7 @@ var randomBalls_extraBallsMax = 10;
 - `<canvas>`の領域をクリックするとボールを増やすことができます。
 - 数値を入力することで増やせる最大個数を変更することができます。
 
-### クリックして増やせるボールの透明度
+### クリックして増やせるボールの色
 ~~~javascript
 var randomBalls_extraBallsColor = 'rgba(255,255,0,0.15)';
 ~~~
