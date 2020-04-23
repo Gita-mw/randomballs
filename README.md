@@ -28,7 +28,7 @@ HTMLファイルに`<canvas>`タグを記述し、好きなID名をつけます�
 ~~~
 
 ### STEP3
-`dist`フォルダの中にあるJ`randomballs-settings.js`ファイルを開き、11行目をSTEP1でつけたID名に書き換えます。
+`dist`フォルダの中にある`randomballs-settings.js`ファイルを開き、11行目をSTEP1でつけたID名に書き換えます。
 
 例：
 ~~~javascript
