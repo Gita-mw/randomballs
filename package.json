@@ -1,7 +1,7 @@
 {
   "name": "randomballs-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "ランダムなサイズ・透明度の円がふわふわと動くだけのJavaScriptです。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gita-mw@github.com/Gita-mw/RandomBalls-js.git"
+    "url": "git+https://gita-mw@github.com/Gita-mw/randomballs.git"
   },
   "author": "Miu Taji Williamson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gita-mw/RandomBalls-js/issues"
+    "url": "https://github.com/Gita-mw/randomballs/issues"
   },
-  "homepage": "https://github.com/Gita-mw/RandomBalls-js#readme",
+  "homepage": "https://github.com/Gita-mw/randomballs#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
