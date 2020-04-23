@@ -39,7 +39,7 @@ var randomBalls_canvasID = 'randomBalls'; //<canvas>のIDを''内に記入
 
 ## 高度な設定
 
-`randomballs-settings.js`ファイルを書き換えることでさまざな設定をすることができます。
+`dist`フォルダの中にある`randomballs-settings.js`ファイルを書き換えることでさまざな設定をすることができます。
 
 ### `<canvas>`の背景色設定
 ~~~javascript
