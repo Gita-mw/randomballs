@@ -3,7 +3,8 @@
 ランダムなサイズ・透明度の円がふわふわと動くJavaScriptです。
 クリックするとボールが増えます。
 
-[Demoはこちら](https://gita-mw.github.io/randomballs/dist/demo.html)
+[デモはこちら](https://gita-mw.github.io/randomballs/dist/demo.html)  
+[フロントページはこちら](https://gita-mw.github.io/randomballs/)
 
 ---
 
@@ -98,7 +99,7 @@ var randomBalls_extraBallsMax = 10;
 - `<canvas>`の領域をクリックするとボールを増やすことができます。
 - 数値を入力することで増やせる最大個数を変更することができます。
 
-### クリックして増えるボールの透明度
+### クリックして増やせるボールの透明度
 ~~~javascript
 var randomBalls_extraBallsColor = 'rgba(255,255,0,0.15)';
 ~~~
@@ -108,5 +109,5 @@ var randomBalls_extraBallsColor = 'rgba(255,255,0,0.15)';
 ---
 
 ## 対応ブラウザ
-2020年4月23日時点で、以下のブラウザでの動作を確認しています。
+2020年4月23日時点で、以下のブラウザでの動作を確認しています。  
 Chrome, Safari, Firefox Developer Edition
