@@ -43,7 +43,7 @@ var randomBalls_canvasID = 'randomBalls'; //<canvas>のIDを''内に記入
 
 `dist`フォルダの中にある`randomballs-settings.js`ファイルを書き換えることでさまざな設定をすることができます。
 
-### `<canvas>`の背景色設定
+### `<canvas>`の背景色
 ~~~javascript
 var randomBalls_canvasColor = 'rgba(255, 127, 80, 0.8)';
 ~~~
@@ -51,7 +51,7 @@ var randomBalls_canvasColor = 'rgba(255, 127, 80, 0.8)';
 - RGBa指定だけでなく、CSSで使用できる色の指定であればいずれも使用可能です。
 - `transparent`とかけば透明になります。
 
-### `<canvas>`のサイズ設定
+### `<canvas>`のサイズ
 ~~~javascript
 var randomBalls_canvasSize = false;
 ~~~
@@ -94,14 +94,14 @@ var randomBalls_initialBallsOpacity = 4;
 - ページ読み込み時に最初にランダムに生成されるボールの透明度を変更することができます。
 - `1`-`9`の数値を入力することができます。
 
-### クリックして増やせるボールの最大個数
+### 追加ボールの最大個数
 ~~~javascript
 var randomBalls_extraBallsMax = 10;
 ~~~
 - `<canvas>`の領域をクリックするとボールを増やすことができます。
 - 数値を入力することで増やせる最大個数を変更することができます。
 
-### クリックして増やせるボールの色
+### 追加ボールの色
 ~~~javascript
 var randomBalls_extraBallsColor = 'rgba(255,255,0,0.15)';
 ~~~
